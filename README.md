@@ -1,5 +1,5 @@
 # ITE-003
-Códigos desenvolvidos na aula de Programação Orientada a Objetos da Fatec Rubens Lara.
+Projetos desenvolvidos na aula de Programação Orientada a Objetos da Fatec Rubens Lara.
 
 ## Ementa 
 * Princípios de Programação Orientada a Objetos  
